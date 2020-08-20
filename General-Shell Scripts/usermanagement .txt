@@ -1,0 +1,27 @@
+user creation 
+useradd user_name 
+can be edited /etc/passwd
+
+groups 
+
+can be edited /etc/group
+
+indra1:x:504:developer1,developer2
+
+user sudo access
+---- Assigning to a wheel group 
+---- or editing visudo file 
+
+
+user group allocation 
+vigr
+
+sudoers file edit 
+visudo
+
+safeway to edit
+visudo 
+
+deleting user
+-------------------------------------------
+

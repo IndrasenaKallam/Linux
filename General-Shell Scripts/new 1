@@ -1,0 +1,1 @@
+/home/ec2-user/mongodb-linux-x86_64-amazon-3.2.12-64-gd98f311/bin/mongod --storageEngine wiredTiger --config /etc/mongod.conf &

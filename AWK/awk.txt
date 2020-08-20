@@ -1,0 +1,36 @@
+Awk Command
+
+* Used for manipulation of data and generating reports.
+* Allows the users to use variables, numeric functions, string functions and logical operations
+* Most commonly used for pattern scanning and processing 
+
+What can we do :
+
+* scans a file line by line.
+* splits each input line into fields.
+* compares input lines to pattern.
+* performs actions on matched lines.
+
+syntax:
+
+awk options 'selection_criteria{action}' input-file > output-file
+
+options:
+
+-F fs :To specify a file separator.
+
+-f file:To specify a file that contains awk script.
+
+-v var=value :To declare a variable.
+
+variables:
+
+$0 for the whole line
+$0 for the whole line.
+$1 for the first field.
+$2 for the second field.
+$n for the nth field.
+
+
+
+

@@ -1,0 +1,4 @@
+3 == varun manager sales 50000
+4 == amit manager account 47000
+5 == tarun peon sales 15000
+6 == deepak clerk sales 23000

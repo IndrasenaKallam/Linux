@@ -1,0 +1,8 @@
+45000 ajay
+25000 sunil
+50000 varun
+47000 amit
+15000 tarun
+23000 deepak
+13000 sunil
+80000 satvik
